@@ -1,0 +1,38 @@
+[
+  {
+    "id": 3183875,
+    "name": "Tirana",
+    "country": "AL",
+    "coord": {
+      "lon": 19.81889,
+      "lat": 41.327499
+    }
+  },
+  {
+    "id": 2613357,
+    "name": "Smidstrup",
+    "country": "DK",
+    "coord": {
+      "lon": 12.55787,
+      "lat": 55.865688
+    }
+  },
+  {
+    "id": 6460975,
+    "name": "Rastnik",
+    "country": "BG",
+    "coord": {
+      "lon": 25.283331,
+      "lat": 41.400002
+    }
+  },
+  {
+    "id": 596826,
+    "name": "Murava",
+    "country": "LT",
+    "coord": {
+      "lon": 23.966669,
+      "lat": 54.916672
+    }
+  }
+]
